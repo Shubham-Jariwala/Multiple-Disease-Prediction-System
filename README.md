@@ -49,21 +49,29 @@ Additional Information
 #Model Training:
 
 Models used: SVM and Logistic Regression
+
 Dataset source: Kaggle
 
 #Frameworks and Libraries:
 
 numpy==1.21.4
+
 pickle-mixin==1.0.2
+
 streamlit==1.2.0
+
 streamlit_option_menu==0.3.2
+
 scikit-learn==1.0.1
 
 #Contribution:
+
 Explain how others can contribute to the project (e.g., reporting issues, suggesting improvements, submitting pull requests).
 
 #License:
+
 Streamlit Apache 2.0.
 
 #Contact:
+
 Feel free to reach out for any questions or feedback!
