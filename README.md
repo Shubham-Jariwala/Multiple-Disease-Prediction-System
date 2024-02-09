@@ -3,28 +3,28 @@ Multiple Disease Prediction System
 
 Predict diabetes, heart disease, and Parkinson's disease with a single app.
 
-#Overview
+## Overview
 This application harnesses the power of machine learning to predict the likelihood of three significant diseases:
 
 #Diabetes
 #Heart Disease
 #Parkinson's Disease
 
-#Usage
+## Usage
 
 1. Installation
 
 Clone this repository:
 
-git clone https://github.com/your-username/Multiple-Disease-Prediction-App.git
+`git clone https://github.com/your-username/Multiple-Disease-Prediction-App.git`
 
 Install the required dependencies (listed in requirements.txt):
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 2. Running the App
 
-Launch the app using the command streamlit run app.py.
+Launch the app using the command `streamlit run app.py`.
 
 3. Input Data
 
@@ -46,13 +46,13 @@ Use the predictions to understand your potential risk for these diseases.
 Remember that these predictions are not a substitute for professional medical advice. Consult a healthcare provider for diagnosis and treatment.
 Additional Information
 
-#Model Training:
+## Model Training:
 
 Models used: SVM and Logistic Regression
 
 Dataset source: Kaggle
 
-#Frameworks and Libraries:
+## Frameworks and Libraries:
 
 numpy==1.21.4
 
@@ -64,14 +64,14 @@ streamlit_option_menu==0.3.2
 
 scikit-learn==1.0.1
 
-#Contribution:
+## Contribution:
 
 Explain how others can contribute to the project (e.g., reporting issues, suggesting improvements, submitting pull requests).
 
-#License:
+## License:
 
 Streamlit Apache 2.0.
 
-#Contact:
+## Contact:
 
 Feel free to reach out for any questions or feedback!
