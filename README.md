@@ -6,9 +6,12 @@ Predict diabetes, heart disease, and Parkinson's disease with a single app.
 ## Overview
 This application harnesses the power of machine learning to predict the likelihood of three significant diseases:
 
-#Diabetes
-#Heart Disease
-#Parkinson's Disease
+### Diabetes
+
+### Heart Disease
+
+### Parkinson's Disease
+
 
 ## Usage
 
